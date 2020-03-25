@@ -8,30 +8,30 @@ We provide videos for three contents (Education, Haul, Unboxing).
 
 ### Sample frames: Education
 
-#### Original (32.63dB in Peak-to-Signal-Ratio (PSNR))
+#### Original (32.6dB in Peak-to-Signal-Ratio (PSNR))
 
-<img src="https://user-images.githubusercontent.com/62630456/77538819-b1edba80-6ee3-11ea-99f3-73a23ae84aee.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/62630456/77539672-1d845780-6ee5-11ea-9623-28220a994123.png" width="90%"></img>
 
-#### NEMO (36.4dB)
+#### NEMO (35.9dB)
 
-<img src="https://user-images.githubusercontent.com/62630456/77538823-b4501480-6ee3-11ea-99ab-4b1ba39516e4.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/62630456/77539683-1f4e1b00-6ee5-11ea-80e2-f0526e01c906.png" width="90%"></img>
 
 ### Sample frames: Hual
 
-#### Original (32.63dB in Peak-to-Signal-Ratio (PSNR))
+#### Original (26.3dB)
 
-<img src="https://user-images.githubusercontent.com/62630456/77538819-b1edba80-6ee3-11ea-99f3-73a23ae84aee.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/62630456/77539690-21b07500-6ee5-11ea-84be-1e9c0c1c8253.png" width="90%"></img>
 
-#### NEMO (36.4dB)
+#### NEMO (29.8dB)
 
-<img src="https://user-images.githubusercontent.com/62630456/77538823-b4501480-6ee3-11ea-99ab-4b1ba39516e4.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/62630456/77539693-22e1a200-6ee5-11ea-93d1-7a8d6b566370.png" width="90%"></img>
 
 ### Sample frames: Unboxing
 
-#### Original (32.63dB in Peak-to-Signal-Ratio (PSNR))
+#### Original (33.3)
 
-<img src="https://user-images.githubusercontent.com/62630456/77538819-b1edba80-6ee3-11ea-99f3-73a23ae84aee.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/62630456/77539698-2543fc00-6ee5-11ea-9256-421b93ba3ca3.png" width="90%"></img>
 
 #### NEMO (36.4dB)
 
-<img src="https://user-images.githubusercontent.com/62630456/77538823-b4501480-6ee3-11ea-99ab-4b1ba39516e4.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/62630456/77539701-26752900-6ee5-11ea-8b62-8a6f41429ba6.png" width="90%"></img>
