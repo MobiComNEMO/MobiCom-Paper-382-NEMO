@@ -16,7 +16,7 @@ We provide videos for three contents (Education, Haul, Unboxing).
 
 <img src="https://user-images.githubusercontent.com/62630456/77539683-1f4e1b00-6ee5-11ea-80e2-f0526e01c906.png" width="90%"></img>
 
-### Sample frames: Hual
+### Sample frames: Haul
 
 #### Original (26.3dB)
 
