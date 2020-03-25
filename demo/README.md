@@ -6,7 +6,7 @@ We provide videos for three contents (Education, Haul, Unboxing).
 
 `bilinear (education)`, `bilinear (haul)`, `bilnear (unboxing)` are original videos up-scaled by bilinear interplation.
 
-### Sample frames: Education [Move to page and press Ctrl-S to download](https://raw.githubusercontent.com/MobiComNEMO/MobiCom-Paper-382-NEMO/master/demo/bilinear%20(education).webm)
+### Sample frames: Education <a id="raw-url" href="https://raw.githubusercontent.com/MobiComNEMO/MobiCom-Paper-382-NEMO/master/demo/bilinear%20(education).webm">Download FILE</a>
 
 #### Original (32.6dB in Peak-to-Signal-Ratio (PSNR))
 
