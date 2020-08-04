@@ -15,7 +15,7 @@ The below table specifies the numbers of residual blocks and the number of chann
 
 |  Resolution   | Quality | Number of residual blocks | Number of channels |
 |:-------------:|:-------------:|:-------------:|:-----:|
-| 240p      | Low      | 8 | 9 |
+| 240p      | Low      | 4 | 9 |
 | 240p      | Medium      | 8 | 21 |
 | 240p      | High      | 8 | 32 |
 | 360p      | Low      | 4 | 8 |
