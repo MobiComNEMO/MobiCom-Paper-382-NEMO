@@ -89,7 +89,7 @@ To demonstrate this, we provide three sample videos at `demo`.
 
 ### 5. Experiment setting for power measurement
 
-Recent smartphones are equipped an integrated battery.
+A recent smartphone is equipped an integrated battery.
 Thus, we dissebled a smartphone and replaced its battery with the Monsoon power monitor as below image.
 
-<img src="https://user-images.githubusercontent.com/62630456/89301846-15af9d80-d6a5-11ea-88cd-50b993a7d844.jpg" width="90%"><\img>
+<img src="https://user-images.githubusercontent.com/62630456/89301846-15af9d80-d6a5-11ea-88cd-50b993a7d844.jpg" width="90%"></img>
