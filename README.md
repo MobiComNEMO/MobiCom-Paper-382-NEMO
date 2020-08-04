@@ -35,7 +35,7 @@ The below table desribes the mapping from DNN qualities to our local mobile devi
 
 |  Content  | Xiaomi Redmi Note7 | Xiaomi Mi9 | LG Gpad 5 |
 |:-------------:|:-------------:|:-------------:|:-----:|
-| Product review  | Low | Medium | High | 
+| Product review  | Low, Low, Low | High, High, High | Low, Low, Low | 
 | How-to      | Low | High | Medium |
 | Vlogs      | Low | Medium | Low |
 | Game play  | Low | High | Medium |
