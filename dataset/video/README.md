@@ -8,7 +8,7 @@ The below table shows the detail specifications of each video.
 
 | Content       | URL  | Date |
 |:-------------:|:-------------:|:-----:|
-| Product review | https://www.youtube.com/watch?v=ZNC8XT93rds | 2018.01.19 |
+| Product review | https://www.youtube.com/watch?v=ZNC8XT93rds, https://www.youtube.com/watch?v=ZNC8XT93rds | 2018.01.19 |
 | How-to | https://www.youtube.com/watch?v=UFa-RR17P3I | 2018.06.10 |
 | Vlogs | https://www.youtube.com/watch?v=rQKyds1j5C0 | 2018.11.06 |
 | Gaming play | https://www.youtube.com/watch?v=_56DGiboFF8 | 2017.01.24 |
