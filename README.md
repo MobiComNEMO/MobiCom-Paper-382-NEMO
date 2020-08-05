@@ -35,16 +35,16 @@ The below table desribes the mapping from DNN qualities to our local mobile devi
 
 |  Content  | Xiaomi Redmi Note7 | Xiaomi Mi9 | LG Gpad 5 |
 |:-------------:|:-------------:|:-------------:|:-----:|
-| Product review  | Low, Low, Low | High, High, High | Low, Low, Low | 
-| How-to      | Low | High | Medium |
-| Vlogs      | Low | Medium | Low |
-| Game play  | Low | High | Medium |
-| Skit      | Low | Medium | Low | 
-| Haul      | Low | Medium | Low |
-| Challenges      | Low | High | High |
-| Favoriate      |  Low | Medium | Low |
-| Education      | Low | Medium | Low |
-| Unboxing      | Low | High | Medium |
+| product_review | Low, Low, Low | High, High, High | Low, Low, Low |
+| how_to | Low, Low, Low | High, High, High | Low, Low, Low |
+| vlogs | Low, Low, Low | Medium, High, Medium | Low, Low, Low |
+| game_play | Low, Low, Low | Medium, High, Medium | Low, Low, Low |
+| skit | Low, Low, Low | Medium, Medium, High | Low, Low, Low |
+| haul | Low, Low, Low | Medium, High, High | Low, Low, Low |
+| challenge | Low, Low, Low | High, High, High | Low, Low, Low |
+| favorite | Low, Low, Low | Medium, High, High | Low, Low, Medium |
+| education | Low, Low, Low | High, Medium, High | Medium, Low, Low |
+| unboxing | Low, Low, Low | High, High, High | Low, Low, Low |
 
 #### b. 360p to 1080p
 
