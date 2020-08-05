@@ -50,31 +50,30 @@ The below table desribes the mapping from DNN qualities to our local mobile devi
 
 |  Content  | Xiaomi Redmi Note7 | Xiaomi Mi9 | LG Gpad 5 | 
 |:-------------:|:-------------:|:-------------:|:-----:|
-| Product review      | Low | Medium | Medium |
-| How-to      | Low| High | Medium |
-| Vlogs      | Low | Low | Low |
-| Game play  | Low| Medium | Medium | 
-| Skit      | Low | Low| Low |
-| Haul      | Low| Low| Low|
-| Challenges      | Low | High | Medium |
-| Favoriate      | Low | Low | Low |
-| Education      | Low | Low | Low |
-| Unboxing      | Low | Low | Low |
-
+| product_review | Low, Low, Low | Medium, Medium, Medium | Low, Low, Low |
+| how_to | Low, Low, Low | Medium, Medium, Medium | Low, Low, Low |
+| vlogs | Low, Low, Low | Low, High, Low | Low, Medium, Low |
+| game_play | Low, Low, Low | Low, Low, Low | Low, Low, Low |
+| skit | Low, Low, Low | Low, Medium, Medium | Low, Low, Low |
+| haul | Low, Low, Low | Low, Medium, Medium | Low, Low, Low |
+| challenge | Low, Low, Low | Medium, Medium, Medium | Low, Low, Low |
+| favorite | Low, Low, Low | Low, Medium, Medium | Low, Low, Low |
+| education | Low, Low, Low | High, Low, Medium | Low, Low, Low |
+| unboxing | Low, Low, Low | Medium, Medium, Medium | Low, Low, Low |
 #### c. 480p to 1080p
 
 |  Content  | Xiaomi Redmi Note7 | Xiaomi Mi9 | LG Gpad 5 | 
 |:-------------:|:-------------:|:-------------:|:-----:|
-| Product review      | Low | High | Medium |
-| How-to      | Low | High | Medium |
-| Vlogs      | Low | Low| Low|
-| Game play  | Low | Medium | Medium |
-| Skit      | Low | Low| Low|
-| Haul      | Low | Low| Low|
-| Challenges      | Low| Medium| Medium|
-| Favoriate      | Low | Medium | Medium |
-| Education      |Low | Medium | Medium |
-| Unboxing      |Low | Medium| Medium|
+| product_review | Low, Low, Medium | Medium, Medium, High | Low, Low, Medium |
+| how_to | Low, Low, Low | Medium, Medium, Medium | Medium, Low, Low |
+| vlogs | Low, Low, Low | Medium, High, Medium | Low, Medium, Low |
+| game_play | Low, Low, Low | Medium, Medium, Medium | Low, Low, Low |
+| skit | Low, Low, Low | Medium, Medium, Medium | Low, Low, Low |
+| haul | Low, Low, Low | Medium, Medium, Medium | Low, Low, Low |
+| challenge | Low, Low, Low | High, High, High | Low, Medium, Medium |
+| favorite | Low, Low, Low | Medium, High, High | Low, Medium, Low |
+| education | Low, Low, Low | High, Medium, High | Low, Low, Medium |
+| unboxing | Low, Low, Low | Medium, Medium, Medium | Low, Low, Low |
 
 ### 3. Dataset (Video, Network traces)
 
