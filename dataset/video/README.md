@@ -4,7 +4,7 @@ NEMO used 30 videos from the top ten popular content categories [1] from Youtube
 
 From each category, we select three videos among the top ten most viewed content that supports 4K at 30fps and is at least 5 minutes long. 
 
-For diversity, we select all three videos from distinct creators
+For diversity, we select all three videos from distinct creators.
 
 The below table shows the detail specifications of each video.
 
